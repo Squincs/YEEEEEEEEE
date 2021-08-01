@@ -1,0 +1,13 @@
+{
+    "bot": {
+        "token": "",
+        "botSesKanal": "",
+        "BotOwner": ["SENIN_IDN",""]
+    },
+    
+    "roles": {
+        "vkrole": "",
+        "dc": "",
+        "gartic": ""
+    }
+}
